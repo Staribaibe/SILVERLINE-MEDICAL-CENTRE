@@ -106,6 +106,7 @@ Comparison with Initial Findings:
 While initial assumptions suggested uniform efficiency, analysis revealed distinct performance patterns by doctor type and time of day.
 
 7. Data Visualizations & Charts
+![Uploading image.png…]()
 
 
 8. Recommendations and Observations
@@ -143,7 +144,8 @@ Appendices:
 - Detailed Pivot Table results.
 - Full KPI definitions.
 - Dashboard screenshots.
+![image](https://github.com/user-attachments/assets/66025d5b-9c17-45f1-b1d8-985a5c343e5b)
 
-![image](https://github.com/user-attachments/assets/2ecce216-880f-4836-be80-3ad165d34e1e)
+
 
 
