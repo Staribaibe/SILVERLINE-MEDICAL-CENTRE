@@ -12,7 +12,6 @@
 - [Data Visualizations and Charts](#data-visualizations-and-charts)
 - [Recommendations and Observations](#recommendations-and-observations)
 - [Conclusion](#conclusion)
-- [References & Appendices](#references-&-appendices)
 
 
 
@@ -188,12 +187,6 @@ Data gaps in some time records and potential sample bias in financial class repo
 ### Future Research:
 A deeper dive into patient satisfaction metrics and exploring machine learning for predictive scheduling could enhance future analyses.
 
-## References & Appendices
-
-References:
-- Silverline Medical Centre operational database.
-- Microsoft Excel (Pivot Tables, Advanced Formulas).
-- Industry benchmarks for healthcare operational efficiency.
 
 
 
